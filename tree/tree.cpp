@@ -2,7 +2,7 @@
 //2016/8/16 ËÎÏèÁ·Ï°¶ş²æÊ÷
 
 #include "stdafx.h"
-
+#include<iostream>
 
 int main()
 {

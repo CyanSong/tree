@@ -1,11 +1,9 @@
-// tree.cpp : 定义控制台应用程序的入口点。
-//2016/8/16 宋翔练习二叉树
+//main.cpp 定义程序入口点
+#include"stdafx.h"
+#include"tree.h"
 
-#include "stdafx.h"
-#include<iostream>
-
-int main()
-{
-    return 0;
+int main() {
+	BinaryTree<int> tmp;
+	system("pause");
+	return 0;
 }
-
